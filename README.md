@@ -5,9 +5,6 @@
 Digital Photography Website (Hobby - WIP).
 - HTML - CSS - Hobby - Website 
  
-## Link 
-- https://wastedplus.com/index.html
- 
 ## Languages and Programs used
 - HTML
 - CSS
