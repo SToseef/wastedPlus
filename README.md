@@ -30,7 +30,7 @@ Digital Photography Website (Hobby - WIP).
 <br />
 <br />
 <p align="center">Redesigned layout:</p> 
-<p align="center"><img  alt="Movie ratings" src="/images/2023-03-08.png" height= "80%" width= "80%"/></p>
+<p align="center"><img  alt="Movie ratings" src="/images/2023-10-09.png " height= "80%" width= "80%"/></p>
 <br />
 - Redesigned layout, transitions and fade added. A container to best scale content (eg. text or photos) on different size screens. 
 <br />
