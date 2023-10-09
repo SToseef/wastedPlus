@@ -9,6 +9,8 @@ Digital Photography Website (Hobby - WIP).
 - HTML
 - CSS
 - Visual Studio Code
+- Photoshop
+- DaVinci Resolve
 
 ## Updates:
 - Home page style
@@ -29,17 +31,38 @@ Digital Photography Website (Hobby - WIP).
 <br />
 <br />
 <br />
-<p align="center">Redesigned layout:</p> 
-<p align="center"><img  alt="Movie ratings" src="/images/2023-10-09.png " height= "80%" width= "80%"/></p>
+<p align="center">Redesigned layout (2023):</p> 
+<p align="center"><img  alt="Layout redesign" src="/images/2023-10-09.png " height= "80%" width= "80%"/></p>
 <br />
 - Redesigned layout, transitions and fade added. A container to best scale content (eg. text or photos) on different size screens. 
 <br />
 <br />
 <br />
+<p align="center">About Page:</p> 
+<p align="center"><img  alt="About" src="/images/About.png" height= "80%" width= "80%"/></p>
+<br />
+- Additional information for the vistor + Social media links. 
+<br />
+<br />
+<br />
 <p align="center">Photos Page:</p> 
-<p align="center"><img  alt="Movie category" src="/images/2023-03-08 (2).png" height= "80%" width= "80%"/></p>
+<p align="center"><img  alt="Photos" src="/images/2023-03-08 (2).png" height= "80%" width= "80%"/></p>
 <br />
 - Keeping the container from index page to maintain consistant layout. 
+<br />
+<br />
+<br />
+<p align="center">Cast Page:</p> 
+<p align="center"><img  alt="Cast page" src="/images/Cast.png" height= "80%" width= "80%"/></p>
+<br />
+- Showcases all cast members who are featured in WASTED. 
+<br />
+<br />
+<br />
+<p align="center">Profile Page:</p> 
+<p align="center"><img  alt="Profile page" src="/images/Profile.png" height= "80%" width= "80%"/></p>
+<br />
+- When cast member is selected, you get additional information regarding the player. <br /> - Includes basic information, photo slider, and episode list. 
 <br />
 <br />
 <br />
